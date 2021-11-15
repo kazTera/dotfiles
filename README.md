@@ -2,9 +2,6 @@
 
 ## Setup
 
-### macOS
-```sh:terminal
-$ curl -sS https://raw.githubusercontent.com/jiroshin/dotfiles/master/macos.sh | sh
 ```
 
 ## Memo
